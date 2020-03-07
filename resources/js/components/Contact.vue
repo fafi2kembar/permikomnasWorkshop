@@ -18,5 +18,10 @@
               <button type="submit" class="btn btn-primary">Kirim</button>
           </form>
     </div>
+    <div class="col-sm-4">
+      <h3>Alamat : jl Maulana hasanudin</h3>
+      <p>Bergerak di bidang teknologi dengan menciptakan berbagai computer yang memiliki high spec requirement</p
+      <p>Telp : 4353627281</p>
   </div>
+</div>
 </template>

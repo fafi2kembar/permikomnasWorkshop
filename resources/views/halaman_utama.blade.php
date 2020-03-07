@@ -10,13 +10,13 @@
               </ol>
               <div class="carousel-inner">
                 <div class="carousel-item active">
-                  <img src="img/gambar1.jpg" class="d-block w-100" alt="..." >
+                  <img src="img/gambar1.jpg" class="d-block w-100" alt="..." height="400px">
                 </div>
                 <div class="carousel-item">
-                  <img src="img/gambar2.jpg" class="d-block w-100" alt="..." >
+                  <img src="img/gambar2.jpg" class="d-block w-100" alt="..." height="400px">
                 </div>
                 <div class="carousel-item">
-                  <img src="img/gambar3.jpg" class="d-block w-100" alt="..." >
+                  <img src="img/gambar3.jpg" class="d-block w-100" alt="..." height="400px">
                 </div>
               </div>
               <a class="carousel-control-prev" href="#carouselExampleCaptions" role="button" data-slide="prev">

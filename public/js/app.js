@@ -37355,6 +37355,18 @@ var staticRenderFns = [
             [_vm._v("Kirim")]
           )
         ])
+      ]),
+      _vm._v(" "),
+      _c("div", { staticClass: "col-sm-4" }, [
+        _c("h3", [_vm._v("Alamat : jl Maulana hasanudin")]),
+        _vm._v(" "),
+        _c("p", [
+          _vm._v(
+            "Bergerak di bidang teknologi dengan menciptakan berbagai computer yang memiliki high spec requirement"
+          )
+        ]),
+        _vm._v("Telp : 4353627281"),
+        _c("p")
       ])
     ])
   }
