@@ -1,6 +1,6 @@
 <template>
   <div class="row">
-    <div class="sm-8">
+    <div class="col-sm-8">
           <form>
             <h2>Hubungi Kami</h2>
             <div class="form-group">
